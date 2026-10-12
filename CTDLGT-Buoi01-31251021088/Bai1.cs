@@ -8,7 +8,7 @@ namespace CTDLGT_Buoi01_31251021088
     internal class Bai1
     {
         //Bài 1: Nhập xuất và xử lý điều kiện
-        public static void Main12(string[] args)
+        public static void Main233(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
             Console.Write("Nhập a bất kỳ: " );
